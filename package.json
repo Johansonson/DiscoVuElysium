@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "A tool to visualize Disco Elysium's complex conversation graphs",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "docs:dev": "vuepress dev docs",
