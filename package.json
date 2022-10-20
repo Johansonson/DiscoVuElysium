@@ -28,7 +28,7 @@
     "url": "https://github.com/Johansonson/DiscoVuElysium/issues"
   },
   "homepage": "https://github.com/Johansonson/DiscoVuElysium#readme",
-  "dependencies": {
+  "devDependencies": {
     "vuepress": "^2.0.0-beta.51"
   }
 }
