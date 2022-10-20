@@ -1,0 +1,1 @@
+import{_ as s,o as t,c as o,a as e,b as c}from"./app.b9a753d2.js";const _="/DiscoVuElysium/images/portrait_you_obscured.png",n={},r=e("p",null,[c("'# Hello VuePress' "),e("img",{src:_,alt:"An image"})],-1),a=[r];function i(l,d){return t(),o("div",null,a)}const u=s(n,[["render",i],["__file","index.html.vue"]]);export{u as default};
